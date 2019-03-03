@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=inPanel\ inSleep
+comment0.target=paintFrameComponents(javax.swing.JPanel,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ paintFrameComponents\r\n
+comment1.params=
+comment1.target=void\ paintRGBColors()
+comment1.text=\r\n\ Methods\r\n
+comment2.params=
+comment2.target=void\ paintRGBEfficient()
+comment3.params=
+comment3.target=void\ draw()
+numComments=4
