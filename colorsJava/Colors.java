@@ -40,4 +40,4 @@ public class Colors extends JFrame
         JFrame newFrameInstance = new Colors();
     }
    
-} // class CopyOfFrame_Example
+} // class Colors
